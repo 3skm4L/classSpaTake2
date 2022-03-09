@@ -1,7 +1,7 @@
 7032
 104C:\Users\bakty\Documents_local\SavvyCoders\classSpaTake2\node_modules\utility-types\dist\mapped-types.js132905720581662438 0
 98C:\Users\bakty\Documents_local\SavvyCoders\classSpaTake2\node_modules\postcss-value-parser\LICENSE132905720577172734 0
-67C:\Users\bakty\Documents_local\SavvyCoders\classSpaTake2\.gitignore132905699429674266 0
+67C:\Users\bakty\Documents_local\SavvyCoders\classSpaTake2\.gitignore132911749548674981 0
 99C:\Users\bakty\Documents_local\SavvyCoders\classSpaTake2\node_modules\@parcel\utils\src\Deferred.js132905720599742212 0
 104C:\Users\bakty\Documents_local\SavvyCoders\classSpaTake2\node_modules\terser\node_modules\source-map\lib132905720602671891 1
 79C:\Users\bakty\Documents_local\SavvyCoders\classSpaTake2\node_modules\nan\tools132905720602032255 1
@@ -202,7 +202,7 @@
 102C:\Users\bakty\Documents_local\SavvyCoders\classSpaTake2\node_modules\@parcel\utils\src\getExisting.js132905720601692449 0
 86C:\Users\bakty\Documents_local\SavvyCoders\classSpaTake2\node_modules\lodash\extend.js132907477356308844 0
 94C:\Users\bakty\Documents_local\SavvyCoders\classSpaTake2\node_modules\lodash\fp\isArrayLike.js132907477359369346 0
-69C:\Users\bakty\Documents_local\SavvyCoders\classSpaTake2\package.json132907477370167995 0
+69C:\Users\bakty\Documents_local\SavvyCoders\classSpaTake2\package.json132911758267103125 0
 106C:\Users\bakty\Documents_local\SavvyCoders\classSpaTake2\node_modules\postcss-minify-font-values\README.md132905720583231537 0
 110C:\Users\bakty\Documents_local\SavvyCoders\classSpaTake2\node_modules\lmdb\prebuilds\win32-x64\node.abi72.node132905720624862279 0
 66C:\Users\bakty\Documents_local\SavvyCoders\classSpaTake2\README.md132905699429714238 0
