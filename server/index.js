@@ -1,14 +1,3 @@
-// const http = require("http");
-// const server = http
-//   .createServer((request, response) => {
-//     response.write("Yep you hit me 2");
-//     // End and return the response
-//     response.end();
-//   })
-//   .listen(4040);
-
-// console.log("Listening on port 4040");
-
 // 'Import' the Express module instead of http
 const express = require("express");
 
@@ -16,6 +5,9 @@ const express = require("express");
 const mongoose = require("mongoose");
 
 const dotenv = require("dotenv");
+
+// Require models
+const pizzas = require("./routers/pizzas");
 
 dotenv.config();
 
@@ -39,6 +31,8 @@ const logging = (request, response, next) => {
 
 app.use(express.json());
 app.use(logging);
+
+app.use("/pizzas", pizzas);
 
 // Handle the request with HTTP GET method from http://localhost:4040/status
 app.get("/status", (request, response) => {
